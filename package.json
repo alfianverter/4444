@@ -1,0 +1,29 @@
+{
+  "name": "dwiimusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoLife-Development/mioakiyama-music.git"
+  },
+  "author": "ItzMeDwii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoLife-Development/mioakiyama-music/issues"
+  },
+  "homepage": "https://github.com/NoLife-Development/mioakiyama-music#readme",
+  "dependencies": {
+    "dblapi.js": "^2.2.0",
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "0.0.6",
+    "os": "^0.1.1",
+    "simple-youtube-api": "^5.0.2",
+    "superagent": "^3.8.3",
+    "ytdl-core": "^0.24.0"
+  }
+}
